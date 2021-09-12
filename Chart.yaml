@@ -2,7 +2,8 @@ apiVersion: v1
 appVersion: 6.8.18-oss
 description: Official Elastic helm chart for Elasticsearch
 home: https://github.com/elastic/helm-charts
-icon: https://helm.elastic.co/icons/elasticsearch.png
+# icon: https://helm.elastic.co/icons/elasticsearch.png
+icon: https://github.com/bt66/costom_elasticsearch/blob/master/carakanis_red.png
 maintainers:
 - email: helm-charts@elastic.co
   name: Elastic
