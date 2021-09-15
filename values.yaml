@@ -56,7 +56,7 @@ hostAliases: []
 #  - "foo.local"
 #  - "bar.local"
 
-image: "docker.elastic.co/elasticsearch/elasticsearch-oss"
+image: "registry.carakan.id/elasticsearch-oss-custom"
 imageTag: "6.8.18"
 imagePullPolicy: "IfNotPresent"
 
