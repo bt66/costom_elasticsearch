@@ -56,7 +56,7 @@ hostAliases: []
 #  - "foo.local"
 #  - "bar.local"
 
-image: "registry.carakan.id/elasticsearch-oss-custom"
+image: "registry.carakan.id/elasticsearch/custom"
 imageTag: "6.8.18"
 imagePullPolicy: "IfNotPresent"
 
